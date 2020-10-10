@@ -11,5 +11,8 @@ public class Main {
 
         // New line from John
         System.out.println("Hi Ricardo.");
+
+        //Addition from Nathan
+        System.out.println("Hello John, my name is Nathan")
     }
 }
