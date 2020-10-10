@@ -13,6 +13,9 @@ public class Main {
         System.out.println("Hi Ricardo.");
 
         //Addition from Nathan
-        System.out.println("Hello John, my name is Nathan")
+        System.out.println("Hello John, my name is Nathan");
+
+        //Hello from Chad too.
+        System.out.println("Hello John, my name is Chad.");
     }
 }
